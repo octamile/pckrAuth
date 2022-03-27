@@ -39,4 +39,7 @@ func TestPremier (t *testing.T) {
 	
 	_x8100, _x8200 := RsblVldtAthrzt ("x", []string {"flap", "xan", data})
 	fmt.Println (_x8100, _x8200)
+
+	_x9100, _x9200 := RsblVldtAthrzt ("", []string {"", "", data})
+	fmt.Println (_x9100, _x9200)
 }
