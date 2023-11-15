@@ -1,3 +1,5 @@
+github.com/qb-qetell/httpMssg v1.7.0 h1:2xZ2wBVnVYVva2IksM7zeNN7J8R2PL8HQrcqV/kk/Po=
+github.com/qb-qetell/httpMssg v1.7.0/go.mod h1:RZMlzVTXamMYSkiLjd51HBUQqgdiLRjPqaD2HFDKLmI=
 github.com/tidwall/gjson v1.14.0 h1:6aeJ0bzojgWLa82gDQHcx3S0Lr/O51I9bJ5nv6JFx5w=
 github.com/tidwall/gjson v1.14.0/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=
